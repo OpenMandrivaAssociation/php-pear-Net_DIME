@@ -5,7 +5,7 @@
 
 Summary:	%{_pearname} - implements DIME encoding
 Name:		php-pear-%{_pearname}
-Version:	1.0.0
+Version:	1.0.1
 Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
