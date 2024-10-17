@@ -8,7 +8,7 @@ Version:	1.0.2
 Release:	14
 License:	PHP License
 Group:		Development/PHP
-Url:		http://pear.php.net/package/Net_DIME/
+Url:		https://pear.php.net/package/Net_DIME/
 Source0:	http://download.pear.php.net/package/%{modname}-%{version}.tgz
 BuildArch:	noarch
 BuildRequires:	php-pear
